@@ -1,1 +1,1 @@
-# sorting-visualizer
+![Sorting Visualizer Output](output/output.gif)
